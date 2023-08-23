@@ -4,7 +4,7 @@ Repository contanings the notebooks and codes to reproduce the results presented
 "Sampling with flows, diffusion and autoregressive neural networks: A spin-glass perspective"
 
 ## Codes
-To be able to reproduce the simulations, it is required to install the following packages:
+To be able to reproduce the simulations, it is required to have Python 3 installed with the following packages:
 - Numpy
 - Scipy
 - Pandas
