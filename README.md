@@ -18,4 +18,4 @@ Inside the folder *Analysis* we put the Python code necessary to reproduce our s
 The folder *Data* contains all the data frames, and files which are needed to run the notebooks in the folder *Analysis*
 
 ### Figures 
-The folder *Plots* contains all the plots of the paper, obtained directly from the notebooks present in the folder *Figures*.
+The folder *Figures* contains all the plots of the paper, obtained directly from the notebooks present in the folder *Analysis*.
