@@ -1,5 +1,6 @@
 # Sampling by diffusion, flows and autoregressive networks
 Repository contanings the notebooks and codes to reproduce the results presented in the paper:
+
 "Sampling with flows, diffusion and autoregressive neural networks: A spin-glass perspective"
 
 ## Codes
@@ -7,6 +8,7 @@ To be able to reproduce the simulations, it is required to install the following
 - Numpy
 - Scipy
 - Pandas
+
 The codes for the SE equations, AMP and Sampling are in the folder *Codes*
 
 ### Analysis
